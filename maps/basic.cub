@@ -1,0 +1,18 @@
+F 170,170,170
+C 50,50,50
+
+WE textures/basalt_top.xpm
+EA textures/basalt_top.xpm
+SO textures/basalt_top.xpm
+NO textures/basalt_top.xpm
+
+11111111
+10000001
+1001D101
+10000001
+1001D101
+10000001
+1001D101
+10000001
+1000N001
+11111111
